@@ -1,3 +1,8 @@
+/*
+22.05.25 전일제
+게임 1: 업다운 게임
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

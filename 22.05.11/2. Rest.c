@@ -1,5 +1,5 @@
 /*
-백준 10430
+백준 10430번
 https://www.acmicpc.net/problem/10430
 */
 

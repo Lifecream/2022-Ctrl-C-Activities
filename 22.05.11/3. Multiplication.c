@@ -1,3 +1,8 @@
+/*
+백준 2588번
+https://www.acmicpc.net/problem/2588
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 

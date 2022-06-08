@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&desc="원하는 말"&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&desc=abcd&fontColor=000000)
